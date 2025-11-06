@@ -1,0 +1,61 @@
+.fira-code-300 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira Code", monospace;
+  color: #222222;
+}
+
+.navbar {
+  background-color: #338eda;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px; 
+  height: 100px;
+  box-sizing: border-box;
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.favicon {
+  width: 90px;
+  height: auto;
+  display: block;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.branding h1 {
+  margin: 0;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1;
+}
+

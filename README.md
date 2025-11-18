@@ -1,5 +1,5 @@
 # EEHS Hack Club official Site
-The Epsom and Ewell High School Hack Club official website - Work in progress
+The Epsom and Ewell High School Hack Club official website - Work in progress - For Raspite
 
 Made by [Freddie](https://github.com/hippogriff101)
 

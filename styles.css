@@ -88,6 +88,10 @@ footer {
   margin: 10px;
 }
 
+.org:hover {
+  background-color: #2874c2;
+}
+
 .org img {
   width: 100px;
   height: auto;

@@ -15,9 +15,13 @@ body {
 
 footer {
   text-align: center;
+  width: 100%;
   font-size: 14px;
+  padding: 10px;
+  margin-top: 40px;
   background-color: #338eda;
   color: #ffffff;
+  border-radius: 25px;
 }
 
 .error-page {
@@ -88,6 +92,21 @@ footer {
   width: 100px;
   height: auto;
   border-radius: 20px;
+}
+
+.button {
+  background-color: #338eda;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.button:hover {
+  background-color: #2874c2;
+  cursor: pointer;
 }
 
 

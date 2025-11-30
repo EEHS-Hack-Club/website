@@ -30,6 +30,7 @@ footer {
 
 }
 
+
 .navbar {
   background-color: #338eda;
   display: flex;
@@ -111,6 +112,53 @@ footer {
 .button:hover {
   background-color: #2874c2;
   cursor: pointer;
+}
+
+/* Responsive behaviour: stack branding and nav links on small screens */
+@media (max-width: 720px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    height: auto;
+    gap: 12px;
+  }
+
+  .branding {
+    width: 100%;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+
+  .favicon {
+    width: 64px;
+  }
+
+  .navbar ul {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar ul li {
+    width: 100%;
+  }
+
+  .navbar a {
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 10px;
+  }
+
+  /* Make the embedded map and other wide elements responsive */
+  iframe {
+    width: 100% !important;
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 

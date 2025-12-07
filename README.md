@@ -1,6 +1,8 @@
 # EEHS Hack Club official Site
-The Epsom and Ewell High School Hack Club official website - Work in progress - For Raspite
+The Epsom and Ewell High School Hack Club official website!
 
-Made by [Freddie](https://github.com/hippogriff101)
+Coded by [Freddie](https://github.com/hippogriff101)
 
-Edited by [Will](https://github.com/glimmercharger)
+Edited _slightly_ by [Will](https://github.com/glimmercharger)
+
+> Credit to fellow Hack Clubbers for dino photos from [here](https://rawr.hackclub.com)

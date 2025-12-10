@@ -1,0 +1,64 @@
+.boba {
+    background-color: #C76B0F;
+    color: #F6D193;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.boba img {
+    width: 120px;
+    height: auto;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.boba button {
+    background-color: #F6D193;
+    color: #C76B0F;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    display: block;
+    margin: 10px auto 0;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.boba .projects {
+    background-color: #F6D193;
+    color: #C76B0F;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.boba .projects .box {
+    background-color: #C76B0F;
+    color: #F6D193;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;  
+    max-width: 400px;
+    height: auto;
+}
+
+.boba .projects .box img {
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.boba .projects .box button {
+    background-color: #F6D193;
+    color: #C76B0F;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

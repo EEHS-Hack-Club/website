@@ -40,6 +40,7 @@ footer {
   height: 100px;
   box-sizing: border-box;
   border-radius: 15px;
+  text-decoration: none;
 }
 
 .branding {
@@ -64,14 +65,19 @@ footer {
   align-items: center;
 }
 
-.navbar ul li:hover {
-  text-decoration: underline;
+.navbar a {
+  font-weight: 600;
 }
 
-.navbar a {
+a {
   color: #ffffff;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: bold;
+}
+a:hover {
+  background-color: white;
+  color: #ec3750;
+  border-radius: 5px;
 }
 
 .branding h1 {

@@ -30,7 +30,6 @@ footer {
 
 }
 
-
 .navbar {
   background-color: #338eda;
   display: flex;
@@ -95,10 +94,6 @@ a:hover {
   margin: 10px;
 }
 
-.org:hover {
-  background-color: #2874c2;
-}
-
 .org img {
   width: 100px;
   height: auto;
@@ -119,6 +114,8 @@ a:hover {
   background-color: #2874c2;
   cursor: pointer;
 }
+
+/* The following may have been vibecoded cause idk how tf to do it! */
 
 /* Responsive behaviour: stack branding and nav links on small screens */
 @media (max-width: 720px) {

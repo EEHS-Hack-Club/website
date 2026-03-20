@@ -1,0 +1,7 @@
+.project-box {
+    background-color: var(--box-bg);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
